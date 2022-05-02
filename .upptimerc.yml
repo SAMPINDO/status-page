@@ -5,6 +5,8 @@ repo: status-page # The name of this repository
 sites:
   - name: Website
     url: https://sampindo.id
+  - name: SA-MP
+    url: https://weary-flake.000webhostapp.com
     
 assignees: # Users to assign downtime issues (optional)
   - AthallahDzaki
