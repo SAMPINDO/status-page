@@ -5,8 +5,12 @@ repo: status-page # The name of this repository
 sites:
   - name: Website
     url: https://sampindo.id
+    expectedStatusCodes:
+      - 200
   - name: SA-MP
     url: https://weary-flake.000webhostapp.com
+    expectedStatusCodes:
+      - 200
     
 assignees: # Users to assign downtime issues (optional)
   - AthallahDzaki
