@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 331,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 278,
+    "timeDay": 300,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://weary-flake.000webhostapp.com",
     "icon": "https://favicons.githubusercontent.com/weary-flake.000webhostapp.com",
     "slug": "sa-mp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2267,
-    "timeDay": 2760,
-    "timeWeek": 2267,
-    "timeMonth": 2267,
-    "timeYear": 2267,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 2315,
+    "timeDay": 2707,
+    "timeWeek": 2315,
+    "timeMonth": 2315,
+    "timeYear": 2315,
     "dailyMinutesDown": {
-      "2022-05-03": 0
+      "2022-05-03": 10
     }
   }
 ]
