@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 300,
+    "timeDay": 269,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/weary-flake.000webhostapp.com",
     "slug": "sa-mp",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2315,
-    "timeDay": 2707,
+    "timeDay": 2765,
     "timeWeek": 2315,
     "timeMonth": 2315,
     "timeYear": 2315,
-    "dailyMinutesDown": {
-      "2022-05-03": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
