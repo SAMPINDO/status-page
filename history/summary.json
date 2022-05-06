@@ -22,18 +22,19 @@
     "url": "https://weary-flake.000webhostapp.com",
     "icon": "https://favicons.githubusercontent.com/weary-flake.000webhostapp.com",
     "slug": "sa-mp",
-    "status": "up",
-    "uptime": "97.56%",
+    "status": "down",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 2432,
     "timeDay": 2687,
     "timeWeek": 2432,
     "timeMonth": 2432,
     "timeYear": 2432,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-05-04": 127
     }
   }
