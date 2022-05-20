@@ -10,7 +10,7 @@ sites:
   - name: SA-MP
     url: https://weary-flake.000webhostapp.com
     expectedStatusCodes:
-      - 200
+      - 999
     
 assignees: # Users to assign downtime issues (optional)
   - AthallahDzaki
