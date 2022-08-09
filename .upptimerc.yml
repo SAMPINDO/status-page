@@ -8,9 +8,9 @@ sites:
     expectedStatusCodes:
       - 200
   - name: SA-MP
-    url: https://weary-flake.000webhostapp.com
+    url: https://sampindo.id/public/status.php
     expectedStatusCodes:
-      - 999
+      - 200
     
 assignees: # Users to assign downtime issues (optional)
   - AthallahDzaki
