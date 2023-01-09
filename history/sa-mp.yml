@@ -1,7 +1,7 @@
 url: https://sampindo.id/public/status.php
-status: up
-code: 200
-responseTime: 18952
-lastUpdated: 2023-01-09T19:56:09.413Z
+status: down
+code: 429
+responseTime: 603
+lastUpdated: 2023-01-09T20:55:48.555Z
 startTime: Mon May 02 2022 11:00:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
