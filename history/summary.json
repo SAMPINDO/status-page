@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sampindo.id.ico",
     "slug": "sa-mp",
     "status": "up",
-    "uptime": "48.87%",
+    "uptime": "48.88%",
     "uptimeDay": "98.73%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
@@ -320,8 +320,7 @@
       "2022-05-15": 27,
       "2022-05-13": 141,
       "2022-05-12": 38,
-      "2022-05-11": 74,
-      "2022-05-10": 43
+      "2022-05-11": 74
     }
   }
 ]
