@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sampindo.id.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "60.87%",
+    "uptime": "60.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.99%",
-    "time": 1226,
+    "uptimeYear": "34.72%",
+    "time": 1225,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-06-17": 37,
+      "2024-06-18": 36,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -254,8 +255,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 371,
-      "2023-06-19": 9
+      "2023-10-23": 371
     }
   },
   {
@@ -264,18 +264,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sampindo.id.ico",
     "slug": "sa-mp",
     "status": "down",
-    "uptime": "44.91%",
+    "uptime": "44.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.99%",
-    "time": 427,
+    "uptimeYear": "34.72%",
+    "time": 428,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 91,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-06-17": 37,
+      "2024-06-18": 36,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -513,8 +514,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 371,
-      "2023-06-19": 9
+      "2023-10-23": 371
     }
   }
 ]
